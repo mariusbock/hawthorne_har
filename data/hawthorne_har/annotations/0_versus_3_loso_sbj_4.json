@@ -1,0 +1,43 @@
+{
+    "version": "hawthorne_har",
+    "database": {
+        "sbj_0_day_0": {
+            "subset": "Training"
+        },
+        "sbj_1_day_0": {
+            "subset": "Training"
+        },
+        "sbj_2_day_0": {
+            "subset": "Training"
+        },
+        "sbj_3_day_0": {
+            "subset": "Training"
+        },
+        "sbj_4_day_3": {
+            "subset": "Validation"
+        },
+        "sbj_5_day_0": {
+            "subset": "Training"
+        },
+        "sbj_6_day_0": {
+            "subset": "Training"
+        },
+        "sbj_7_day_0": {
+            "subset": "Training"
+        },
+        "sbj_8_day_0": {
+            "subset": "Training"
+        },
+        "sbj_9_day_0": {
+            "subset": "Training"
+        }
+    },
+    "label_dict": {
+        "null": 0,
+        "jumping": 1,
+        "walking": 2,
+        "jogging_in_place": 3,
+        "jumping_jacks": 4,
+        "sit_ups": 5
+    }
+}

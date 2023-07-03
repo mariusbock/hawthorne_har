@@ -1,0 +1,19 @@
+{
+    "version": "hawthorne_har",
+    "database": {
+        "sbj_3_day_0": {
+            "subset": "Training"
+        },
+        "sbj_3_day_3": {
+            "subset": "Validation"
+        }
+    },
+    "label_dict": {
+        "null": 0,
+        "jumping": 1,
+        "walking": 2,
+        "jogging_in_place": 3,
+        "jumping_jacks": 4,
+        "sit_ups": 5
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "version": "hawthorne_har",
+    "database": {
+        "sbj_0": {
+            "subset": "Training"
+        },
+        "sbj_1": {
+            "subset": "Validation"
+        },
+        "sbj_2": {
+            "subset": "Training"
+        },
+        "sbj_3": {
+            "subset": "Training"
+        },
+        "sbj_4": {
+            "subset": "Training"
+        },
+        "sbj_5": {
+            "subset": "Training"
+        },
+        "sbj_6": {
+            "subset": "Training"
+        },
+        "sbj_7": {
+            "subset": "Training"
+        },
+        "sbj_8": {
+            "subset": "Training"
+        },
+        "sbj_9": {
+            "subset": "Training"
+        }
+    },
+    "label_dict": {
+        "day_0": 0,
+        "day_1": 1,
+        "day_2": 2,
+        "day_3": 3
+    }
+}
